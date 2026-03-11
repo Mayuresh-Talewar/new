@@ -1,0 +1,13 @@
+📁 Project Structure:
+├── frontend/
+│   └── App.tsx          (the preview code above)
+├── backend/
+│   ├── server.ts        (Express API)
+│   ├── routes/          (API routes)
+│   └── prisma/
+│       └── schema.prisma (database schema)
+├── prisma/
+│   └── schema.prisma
+├── package.json
+├── .env.example
+└── docker-compose.yml   (if needed)
