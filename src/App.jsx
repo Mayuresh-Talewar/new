@@ -30,6 +30,8 @@ const DevChatBubble = ({ message, isUser, onPreview }) => {
           View Artifact
         </button>
       )}
+
+      
     </div>
   );
 };
